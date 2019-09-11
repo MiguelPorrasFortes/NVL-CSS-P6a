@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <title>Mohs </title>
+    <style>
+    #TALC {
+           background-color: #000000;
+           font-style: normal;
+           color: orange;
+           
+    }
+    #GYPSUM {
+           background-color: #696969;
+           font-style: italic;
+           color: orange;
+    }
+    #CALCITE {
+              background-color: #808080;
+              font-style: oblique;
+              color: orange;
+    }
+    #FLUORITE {
+               background-color: #A9A9A9;
+               font-variant: small-caps;
+               color: orange;
+    }
+    #APATITE {
+               background-color: #C0C0C0;
+               font-variant: normal;
+               color: orange;
+    }
+    
+    #FELDSPAR {
+               background-color:  	#D3D3D3;
+               font-weight: inherit;
+               color: orange;
+    }  
+     #QUARTZ {
+               background-color: #DCDCDC;
+               font-family: serif;
+               color: orange;
+    }
+     #TOPAZ {
+               background-color:  	#F5F5F5;
+               font-family: cursive;
+               color: orange;
+    }
+     #CORUNDUM {
+               background-color: #F8F8FF
+               font-family: cover;
+               color: orange;
+    } 
+    #DIAMOND {
+              background-color: #FFFFFF;
+              font-family: monospace;
+              color: orange;    
+    }
+    </style>
+  </head>
+  <body>
+    <h1> Mohs' Scale</h1>
+    <ol>
+      <li id="TALC">TALC <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Talc_block.jpg/100px-Talc_block.jpg" alt="Talc" height="100" width="95"></li>
+      <li id="GYPSUM">GYPSUM <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Gypse_Arignac.jpg/100px-Gypse_Arignac.jpg" alt="Gypsum" height="100" width="95"></li>
+      <li id="CALCITE">CALCITE <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Calcite-sample2.jpg/100px-Calcite-sample2.jpg" alt="Calcite" height="100" width="95" ></li>
+      <li id="FLUORITE">FLUORITE <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Fluorite_with_Iron_Pyrite.jpg/100px-Fluorite_with_Iron_Pyrite.jpg" alt="Fluorite" height="100" width="95"></li>
+      <li id="APATITE">APATITE <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Apatite_Canada.jpg/100px-Apatite_Canada.jpg" alt="Apatite" height="100" width="95"></li>
+      <li id="FELDSPAR">O. FELDSPAR <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/OrthoclaseBresil.jpg/100px-OrthoclaseBresil.jpg" alt="Feldspar" height="100" width="95"></li>
+      <li id="QUARTZ">QUARTZ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Quartz_Br%C3%A9sil.jpg/100px-Quartz_Br%C3%A9sil.jpg" alt="Quartz" height="100" width"95"></li>
+      <li id="TOPAZ">TOPAZ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Topaz_cut.jpg/100px-Topaz_cut.jpg" alt="Topaz" alt="Topaz" height="100" width="95"></li>
+      <li id="CORUNDUM">CORUNDUM <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cut_Ruby.jpg/100px-Cut_Ruby.jpg" alt="Corundum" height="100" width="95"></li>
+      <li id="DIAMOND">DIAMOND <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Rough_diamond.jpg/100px-Rough_diamond.jpg" alt="Diamond" height="100" width="95"></li>
+    </ol>
+  </body>
+</html>
